@@ -51,7 +51,7 @@ Full-Stack Engineer | FinTech | API & System Design | Problem Solver
 
 ---
 
-## 📊 GitHub Stats
+### 📊 GitHub Stats
 
 ![](https://github-readme-stats.vercel.app/api?username=mrsakib94&theme=dark&hide_border=true&include_all_commits=true&count_private=true)  
 ![](https://github-readme-streak-stats.herokuapp.com/?user=mrsakib94&theme=dark&hide_border=true)  
