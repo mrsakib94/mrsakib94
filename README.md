@@ -1,8 +1,3 @@
-<!-- Profile visitor badge -->
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=mrsakib94&style=flat-square&color=blue" alt="Profile views"/>
-</p>
-
 <h1 align="center">Hi 👋, I'm Sakib</h1>
 
 <p align="center">
@@ -53,6 +48,14 @@ Full-Stack Engineer | FinTech | API & System Design | Problem Solver
   <img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white"/>
   <img src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white"/>
 </p>
+
+---
+
+## 📊 GitHub Stats
+
+![](https://github-readme-stats.vercel.app/api?username=mrsakib94&theme=dark&hide_border=true&include_all_commits=true&count_private=true)  
+![](https://github-readme-streak-stats.herokuapp.com/?user=mrsakib94&theme=dark&hide_border=true)  
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=mrsakib94&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
 ---
 
