@@ -14,7 +14,7 @@ Full-Stack Engineer | FinTech | API & System Design | Problem Solver
 ### 🚀 About Me
 
 - 🔭 I’m currently working on [Glider](https://www.gliderpay.com/)
-- 👯 I love collaborating on **Full-Stack Web Applications using Next.js and NestJS**
+- 👯 I love collaborating on **Full-Stack Web Applications using NextJS and NestJS**
 - 🌱 I’m pursuing a double master’s degree in **IT & Commerce**
 - 💬 Ask me about **JavaScript/TypeScript, FinTech solutions, IoT devices, or system design**
 - ⚡ Fun fact: I’m a **rock climber and half-marathon runner**
