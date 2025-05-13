@@ -1,14 +1,14 @@
 <h1 align="center">Hi 👋, I'm Sakib</h1>
 
 <p align="center">
-Full-Stack Engineer | FinTech | API & System Design | Problem Solver
+Full-Stack Engineer | FinTech | IoT | API & System Design | Problem Solver
 </p>
 
 ---
 
 ### 🚀 About Me
 
-- 🔭 I’m currently working on [Glider](https://www.gliderpay.com/)
+- 🔭 I’m currently working at [Glider](https://www.gliderpay.com/)
 - 👯 I love collaborating on **Full-Stack Web Applications using NextJS and NestJS**
 - 🌱 I’m pursuing a double master’s degree in **IT & Commerce**
 - 💬 Ask me about **JavaScript/TypeScript, FinTech solutions, IoT devices, or system design**
