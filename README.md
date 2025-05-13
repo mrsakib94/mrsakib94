@@ -56,6 +56,7 @@ Full-Stack Engineer | FinTech | IoT | API & System Design | Problem Solver
 ![](https://github-readme-stats.vercel.app/api?username=mrsakib94&theme=dark&hide_border=true&include_all_commits=true&count_private=true)  
 ![](https://github-readme-streak-stats.herokuapp.com/?user=mrsakib94&theme=dark&hide_border=true)  
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=mrsakib94&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-activity-graph.cyclic.app/graph?username=mrsakib94&theme=github-compact)
 
 ---
 
