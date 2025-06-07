@@ -1,29 +1,34 @@
-<h1 align="center">Hi 👋, I'm Sakib</h1>
-
-<p align="center">
-Full-Stack Engineer | FinTech | IoT | API & System Design | Problem Solver
-</p>
-
----
+![Musfiqur Sakib](https://mrsakib.com/static/og-image.png)
 
 ### 🚀 About Me
 
-- 🔭 I’m currently working at [Glider](https://www.gliderpay.com/)
-- 👯 I love collaborating on **Full-Stack Web Applications using NestJS and Next.js**
-- 🌱 I’m pursuing a double master’s degree in **IT & Commerce**
-- 💬 Ask me about **JavaScript/TypeScript, FinTech solutions, IoT devices or system design**
-- ⚡ Fun fact: I’m a **rock climber and half-marathon runner**
+I'm a passionate **Full-Stack Software Engineer** based in Sydney, Australia. I love building scalable web applications, solving real-world problems with code and continuously learning new technologies. I specialise in **AI**, **FinTech** and **IoT** solutions, combining technical depth with a product-driven mindset.
+
+---
+
+### 🧠 I enjoy working on:
+
+- 💡 Building clean, maintainable full-stack systems  
+- 🔐 Designing secure and efficient APIs  
+- ⚙️ Architecting backend services with scalability in mind  
+- 🧠 Exploring the intersection of software and intelligent automation  
 
 ---
 
 ### 🌐 Connect With Me
 
 <p>
-  <a href="mailto:m.r.sakib@outlook.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  <a href="https://mrsakib.com">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio">
+  </a>
+  <a href="https://blog.mrsakib.com">
+    <img src="https://img.shields.io/badge/Blog-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" alt="Blog">
   </a>
   <a href="https://www.linkedin.com/in/mrsakib94/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="mailto:hello@mrsakib.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
 </p>
 
@@ -51,6 +56,22 @@ Full-Stack Engineer | FinTech | IoT | API & System Design | Problem Solver
 
 ---
 
+## 🎓 Education
+
+I have a bechelor's degree in **ICT Engineering** from University of Technology Sydney and currently completing a double master's in **IT** and **Commerce** at University of New South Wales, with a focus on **AI** and **FinTech**.
+
+---
+
+## 🌿 Outside of Tech
+
+When I'm not writing code, you'll probably find me:
+
+- 🧗 Rock climbing  
+- 🏃 Running or staying active outdoors  
+- 🧘 Learning something new — from world history to astrophysics 
+
+---
+
 ### 📊 GitHub Stats
 
 ![](https://github-readme-stats.vercel.app/api?username=mrsakib94&theme=dark&hide_border=true&include_all_commits=true&count_private=true)  
@@ -60,5 +81,5 @@ Full-Stack Engineer | FinTech | IoT | API & System Design | Problem Solver
 ---
 
 <p align="center">
-✨ Always learning, always building ✨
+✨ Thanks for stopping by! I’m always open to cool side projects, freelance work or just chatting about tech and life ✨
 </p>
