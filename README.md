@@ -18,13 +18,13 @@ I'm a passionate **Full-Stack Software Engineer** based in Sydney, Australia. I 
 ### 🌐 Connect With Me
 
 <p>
-  <a href="https://mrsakib.com">
+  <a href="https://mrsakib.com" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio">
   </a>
-  <a href="https://blog.mrsakib.com">
+  <a href="https://blog.mrsakib.com" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Blog-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" alt="Blog">
   </a>
-  <a href="https://www.linkedin.com/in/mrsakib94/">
+  <a href="https://www.linkedin.com/in/mrsakib94/" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
   <a href="mailto:hello@mrsakib.com">
