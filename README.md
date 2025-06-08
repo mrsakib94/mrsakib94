@@ -8,10 +8,10 @@ I'm a passionate **Full-Stack Software Engineer** based in Sydney, Australia. I 
 
 ### 🧠 I enjoy working on:
 
-- 💡 Building clean, maintainable full-stack systems  
-- 🔐 Designing secure and efficient APIs  
-- ⚙️ Architecting backend services with scalability in mind  
-- 🧠 Exploring the intersection of software and intelligent automation  
+- 💡 Building clean, maintainable full-stack systems
+- 🔐 Designing secure and efficient APIs
+- ⚙️ Architecting backend services with scalability in mind
+- 🧠 Exploring the intersection of software and intelligent automation
 
 ---
 
@@ -36,22 +36,10 @@ I'm a passionate **Full-Stack Software Engineer** based in Sydney, Australia. I 
 
 ### 💻 Tech Stack
 
-<p>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white"/>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white"/>
-  <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white"/>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=ts,js,py,c,java,html,css,tailwind,sass,nodejs,nestjs,nextjs,react,express,flask,mysql,postgres,mongodb,redis,jest,aws,vercel,github,gitlab,postman,docker,linux,raspberrypi,supabase,figma" />
+  </a>
 </p>
 
 ---
@@ -66,9 +54,9 @@ I have a bechelor's degree in **ICT Engineering** from University of Technology 
 
 When I'm not writing code, you'll probably find me:
 
-- 🧗 Rock climbing  
-- 🏃 Running or staying active outdoors  
-- 🧘 Learning something new — from world history to astrophysics 
+- 🧗 Rock climbing
+- 🏃 Running or staying active outdoors
+- 🧘 Learning something new — from world history to astrophysics
 
 ---
 
