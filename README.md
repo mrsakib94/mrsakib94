@@ -37,9 +37,7 @@ I'm a passionate **Full-Stack Software Engineer** based in Sydney, Australia. I 
 ### 💻 Tech Stack
 
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ts,js,py,c,java,html,css,tailwind,sass,nodejs,nestjs,nextjs,react,express,flask,mysql,postgres,mongodb,redis,jest,aws,vercel,github,gitlab,postman,docker,linux,raspberrypi,supabase,figma" />
-  </a>
+  <img src="https://skillicons.dev/icons?i=ts,js,py,c,java,html,css,tailwind,sass,nodejs,nestjs,nextjs,react,express,flask,mysql,postgres,mongodb,redis,jest,aws,vercel,github,gitlab,postman,docker,linux,raspberrypi,supabase,figma" />
 </p>
 
 ---
