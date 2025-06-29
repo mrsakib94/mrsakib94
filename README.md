@@ -1,8 +1,8 @@
-![Musfiqur Sakib](https://mrsakib.com/static/og-image.png)
+![Musfiqur Sakib](https://raw.githubusercontent.com/mrsakib94/mrsakib94/refs/heads/main/public/og-image.png)
 
 ### 🚀 About Me
 
-I'm a passionate **Full-Stack Software Engineer** based in Sydney, Australia. I love building scalable web applications, solving real-world problems with code and continuously learning new technologies. I specialise in **AI**, **FinTech** and **IoT** solutions, combining technical depth with a product-driven mindset.
+I'm a passionate **Full-Stack Software Engineer** based in Sydney, Australia. I love building scalable web applications, solving real-world problems with code, and continuously learning new technologies. I specialise in **AI**, **FinTech** and **IoT** solutions, combining technical depth with a product-driven mindset.
 
 ---
 
@@ -44,7 +44,7 @@ I'm a passionate **Full-Stack Software Engineer** based in Sydney, Australia. I 
 
 ## 🎓 Education
 
-I have a bechelor's degree in **ICT Engineering** from University of Technology Sydney and currently completing a double master's in **IT** and **Commerce** at University of New South Wales, with a focus on **AI** and **FinTech**.
+I hold a bachelor's degree in **ICT Engineering** from the **University of Technology Sydney** and am currently completing a double master's in **IT** and **Commerce** at the **University of New South Wales**, with a focus on **AI** and **FinTech**.
 
 ---
 
