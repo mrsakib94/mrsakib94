@@ -1,4 +1,4 @@
-![Musfiqur Sakib](https://raw.githubusercontent.com/mrsakib94/mrsakib94/refs/heads/main/public/og-image.png)
+![Sakib Miyahn](https://raw.githubusercontent.com/sakibmiyahn/sakibmiyahn/refs/heads/main/public/og-image.png)
 
 ### 🚀 About Me
 
@@ -18,16 +18,16 @@ I'm a passionate **Full-Stack Software Engineer** based in Sydney, Australia. I 
 ### 🌐 Connect With Me
 
 <p>
-  <a href="https://mrsakib.com" target="_blank" rel="noopener noreferrer">
+  <a href="https://sakibmiyahn.com" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio">
   </a>
-  <a href="https://blog.mrsakib.com" target="_blank" rel="noopener noreferrer">
+  <a href="https://blog.sakibmiyahn.com" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Blog-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" alt="Blog">
   </a>
-  <a href="https://www.linkedin.com/in/mrsakib94/" target="_blank" rel="noopener noreferrer">
+  <a href="https://www.linkedin.com/in/sakibmiyahn" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
-  <a href="mailto:hello@mrsakib.com">
+  <a href="mailto:hello@sakibmiyahn.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
 </p>
@@ -60,9 +60,9 @@ When I'm not writing code, you'll probably find me:
 
 ### 📊 GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=mrsakib94&theme=dark&hide_border=true&include_all_commits=true&count_private=true)  
-![](https://github-readme-streak-stats.herokuapp.com/?user=mrsakib94&theme=dark&hide_border=true)  
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=mrsakib94&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=sakibmiyahn&theme=dark&hide_border=true&include_all_commits=true&count_private=true)  
+![](https://github-readme-streak-stats.herokuapp.com/?user=sakibmiyahn&theme=dark&hide_border=true)  
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=sakibmiyahn&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
 ---
 
