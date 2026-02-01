@@ -58,14 +58,6 @@ When I'm not writing code, you'll probably find me:
 
 ---
 
-### 📊 GitHub Stats
-
-![](https://github-readme-stats.vercel.app/api?username=sakibmiyahn&theme=dark&hide_border=true&include_all_commits=true&count_private=true)  
-![](https://github-readme-streak-stats.herokuapp.com/?user=sakibmiyahn&theme=dark&hide_border=true)  
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=sakibmiyahn&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
-
----
-
 <p align="center">
 ✨ Thanks for stopping by! I’m always open to cool side projects, freelance work or just chatting about tech and life ✨
 </p>
